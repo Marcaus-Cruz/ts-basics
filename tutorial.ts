@@ -110,3 +110,6 @@ const friends = new StorageContainer<number>();
 friends.addItem(1);
 friends.addItem(2);
 console.log(friends.getItem(1));
+
+
+// ! readonly
